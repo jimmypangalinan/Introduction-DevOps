@@ -34,7 +34,7 @@ Cloud Computing : metode penyampaian berbagai layanan melalui internet. Seorang 
 
 Cloud Computing memiliki 3 layanan :
 
-<p align="center"><img src="./assets/week-1/Cloud-computing.png"/></p>
+<p align="center"><img src="./assets/week-1/Cloud-computing.jpg"/></p>
 
 1. IaaS (Infrastructure as a Servive) : layanan cloud yang pada dasarnya server fisik dan virtual server. Penyidia layanan Iaas menyediakan resource cloud seperti server, jaringan, storage dan ruang data center.
 
