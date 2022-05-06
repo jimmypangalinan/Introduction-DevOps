@@ -4,4 +4,4 @@ Jimmy Pangalinan
 
 ## Learn from Zero
 
-1. [Introduction DevOps] (Introduction-DevOps)
+1. [Introduction DevOps] (Introduction-DevOps.md)
