@@ -4,4 +4,4 @@ DepOps : Praktik dalam sebuah pengembangang Software yang menghubungkan antara t
 
 ## Alur DevOps & Konsep CI/CD
 
-<p align="center"><img src="../assets/week-1/DevOps.png"/></p>
+<p align="center"><img src="./assets/week-1/DevOps.png"/></p>
