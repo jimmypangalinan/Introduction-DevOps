@@ -41,3 +41,21 @@ IP Address : Barisan angka yang dimiliki setiap perangkat yang terhubung dengan 
 ### Versi IP Address :
 
 <p align="center"><img src="./assets/week-1/IPV6-vs-IPV4.jpg"></p>
+
+- IPv4 : Struktur alamat IPv4 memiliki panjang angka 32 bit, yang terdiri dari 4 blok angka yang dipisahkan dengan titik. Setiap blok bisa berisi 1 hinggah 3 digit angka. Masing-masing kumpulan angka tersebut adalah representasi desimal dari 8 bit angka biner. IPv4 menampun 255 alamat. IPv4 memiliki rentang antara 0.0.0.0 hingga 255.255.255.255. Jadi, jika dihitung IPv4 dapat menampung sebanyak 4,3 milliar alamat.
+
+- IPv6 : Struktur IPv6 terdiri dari kombinasi angka dan huruf. IPv6 memiliki panjang angka 128 bit. terdiri dari 8 kelompok angka dan huruf yang setiap kelompoknya dipisahkan dengan titik dua (:).
+
+### Jenis - Jenis IP Address
+
+- IP Public : IP address yang menhubungkan komputer dengan jaringan internet global.
+
+- IP Private : digunakan untuk jaringan lokal atau untuk sistem jaringan lokal (LAN)  seperti pada Lab Komputer, Kantor, Hotel dll.
+
+- IP Dinamis : IP yang berubah sewaktu -waktu yang terjadi karena jumlah IP yang semakin menipis, maka penggunaanyapun bergantian. Jenis IP Dinamis biasanya digunakan untuk umum.
+
+- IP Static : IP yang tidak akan berubah-ubah (tetap). Penggunannya melakukan pemesanan khusus terhadap alamat IP kepada ISP dengan membayar sejumlah biaya. IP Static biasanya digunakan oleh penyedia server, web hosting ataupun lembaga penting yang sangat tergantung pada layanannya.
+
+- Shared IP : Jenis IP yang digunakan oleh beberapa domain/ situs dalam satu server yang sama. Alamat IP ini biasanya di pakai pada layanan shared hosting.
+
+- Dedicated IP : Alamat IP jenis ini hanya memiliki satu domain/situs saja. Dengan menggunakan dedicated IP, reputasi domain pengguna tidak terpengaruh oleh domain lain. Dedicated IP umumnya digunakan oleh pengguna cloud VPS hosting dan pengguna dedicated hosting.
