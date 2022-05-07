@@ -8,9 +8,9 @@ Teks editor nano : Text editor bawaan/default dari terminal linux. berfungsi unt
 
 - `nano`    : Membuka teks editor nano pada terminal linux
 
-<p align="center"><img src=".assets/week-3/Nano/1.png"></p>
+<p align="center"><img src="./assets/week-3/Nano/1.png"></p>
 
-<p align="center"><img src=".assets/week-3/Nano/2.png"></p>
+<p align="center"><img src="./assets/week-3/Nano/2.png"></p>
 
 ### Membuat file sekaligus membuka teks editor nano
 
