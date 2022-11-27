@@ -27,10 +27,9 @@ Continuous Delivery/Deployment (CD) : Praktik yang dilakukan setelah proses CI d
 
 <p align="center"><img src="./assets/week-1/Container.png"/></p>
 
-
 ## Cloud Computing
 
-Cloud Computing : metode penyampaian berbagai layanan melalui internet. Seorang DevOps harus paham mengenai Cloud Computing karena  berhubungan dengan penyimpanan secara publik agar bisa diakses oleh user diaman saja dan kapan saja.
+Cloud Computing : metode penyampaian berbagai layanan melalui internet. Seorang DevOps harus paham mengenai Cloud Computing karena berhubungan dengan penyimpanan secara publik agar bisa diakses oleh user diaman saja dan kapan saja.
 
 Cloud Computing memiliki 3 layanan :
 
@@ -40,4 +39,4 @@ Cloud Computing memiliki 3 layanan :
 
 2. PaaS (Platform as a Service) : Layanan cloud yang disediakan dalam bentuk platform dan dapat dimanfaatkan pengguna untuk membuat aplikasi diatasnya. PaaS membberikan framework bagi developer yang dapat mereka bangun dan gunakan untuk membuat aplikasi yang telah disesuaikan.
 
-3. SaaS (Software as a Service) : Sebuah perangkat lunak yang dijadikan sebagai layanan yang bersifat online. SaaS ini juga disebut sebagai Layanan Aplikasi Cloud.
+3. SaaS (Software as a Service) : Sebuah perangkat lunak yang dijadikan sebagai layanan yang bersifat online. SaaS ini juga disebut sebagai Layanan Aplikasi Cloud..
